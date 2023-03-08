@@ -1,4 +1,4 @@
-package de.cube.cubeapi;
+package de.cube.cube;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
